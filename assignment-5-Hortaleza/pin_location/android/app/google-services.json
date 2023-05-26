@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930180654648",
+    "project_id": "favplace-hortaleza",
+    "storage_bucket": "favplace-hortaleza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930180654648:android:d1b66f980304f2d6cea8cd",
+        "android_client_info": {
+          "package_name": "com.example.pin_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxXvGtyM96PVI7Yo3ZfMDzPNfk_iv6d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
